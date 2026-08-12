@@ -1,0 +1,12 @@
+{
+  "name": "sre-platform-app",
+  "version": "1.0.0",
+  "description": "SRE demo application for CI/CD, Kubernetes and monitoring",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
